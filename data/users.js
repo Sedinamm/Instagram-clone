@@ -1,0 +1,42 @@
+export const USERS = [
+    {
+        user:'Sedinam',
+        image:
+        'https://i.pinimg.com/originals/25/78/61/25786134576ce0344893b33a051160b1.jpg',
+    },
+    {
+        user:'Jhay',
+        image:
+        'https://i.pinimg.com/originals/25/78/61/25786134576ce0344893b33a051160b1.jpg',
+    },
+    {
+        user:'Deladem',
+        image:
+        'https://i.pinimg.com/originals/25/78/61/25786134576ce0344893b33a051160b1.jpg',
+    },
+    {
+        user:'Justice',
+        image:
+        'https://i.pinimg.com/originals/25/78/61/25786134576ce0344893b33a051160b1.jpg',
+    },
+    {
+        user:'Wade Khaleef',
+        image:
+        'https://i.pinimg.com/originals/25/78/61/25786134576ce0344893b33a051160b1.jpg',
+    },
+    {
+        user:'Selorm',
+        image:
+        'https://i.pinimg.com/originals/25/78/61/25786134576ce0344893b33a051160b1.jpg',
+    },
+    {
+        user:'Selasi',
+        image:
+        'https://i.pinimg.com/originals/25/78/61/25786134576ce0344893b33a051160b1.jpg',
+    },
+    {
+        user:'Favour',
+        image:
+        'https://i.pinimg.com/originals/25/78/61/25786134576ce0344893b33a051160b1.jpg',
+    },
+]
